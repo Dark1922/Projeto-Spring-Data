@@ -32,7 +32,7 @@
 
 
 ### Executando no ambiente Dev 
-Clone/Baixar o projeto: gh repo clone Dark1922/Projeto-Spring-Data<br />
+Clonar ou Baixar o projeto: <br />
 `dentro da pasta META-INF/spring-config.xml configura com seu usuario e password do banco desejado, e o nome do database que você vai usar parar ultilziar o projeto.`
 
 
