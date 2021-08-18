@@ -33,7 +33,7 @@
 
 ### Executando no ambiente Dev 
 Clonar ou Baixar o projeto: <br />
-`dentro da pasta META-INF/spring-config.xml configura com seu usuario e password do banco desejado, e o nome do database que você vai usar parar ultilziar o projeto.`
+`dentro da pasta META-INF/spring-config.xml configura com seu usuario e password do banco desejado, e o nome do seu database do psotgres/mysql etc que você vai usar para rodar o projeto.`
 
 
 <hr />
